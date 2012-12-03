@@ -10,7 +10,8 @@ public class DigitalLibraryClient {
 	private Topic counterTopic;
 	private MessageConsumer consumer;
 	private Topic replyTopic;
-	private String Yash;
+	private String Yash;  
+	private int i;
 	
 	public static void main(String args[])
 	{
